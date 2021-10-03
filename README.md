@@ -1,4 +1,4 @@
-In this assignment let's build a **Github Popular Repos** by applying the concepts we have learned till now.
+In this assignment let's build a **Github Popular Repos** by using APIs.
 
 ### Refer to images below:
 
