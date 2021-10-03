@@ -1,0 +1,18 @@
+.li-list {
+  list-style-type: none;
+  margin-bottom: 20px;
+}
+
+.button {
+  border-width: 0px;
+  background-color: transparent;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.design {
+  border-color: #0284c7;
+  border-width: 1px;
+  border-radius: 10px;
+  color: #0284c7;
+}
